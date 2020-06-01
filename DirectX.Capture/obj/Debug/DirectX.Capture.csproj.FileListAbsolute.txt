@@ -1,0 +1,61 @@
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DShowNET.dll
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DShowNET.pdb
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+C:\Users\Fadi Abdelqader\Desktop\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DirectX.Capture\bin\Debug\DShowNET.dll
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DirectX.Capture\bin\Debug\DShowNET.pdb
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+D:\Information Library\@My Projects\My VOIP Project\@TalkSpbx_SIP_VideoCall\TalkSpbx_SIP_VideoCall_Source\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DirectX.Capture\bin\Debug\DShowNET.dll
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DirectX.Capture\bin\Debug\DShowNET.pdb
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+D:\SocketCoder Researches\Projects\TalkSpbx_SIP_VideoCall\P2P Test\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DirectX.Capture\bin\Debug\DShowNET.dll
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DirectX.Capture\bin\Debug\DShowNET.pdb
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+C:\Users\Fadi\Desktop\P2P_Video_DirectShow\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+C:\Users\NTK\Downloads\Compressed\P2P_Video_DirectShow\P2P_Video_DirectShow\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+C:\Users\NTK\Downloads\Compressed\P2P_Video_DirectShow\P2P_Video_DirectShow\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+C:\Users\NTK\Downloads\Compressed\P2P_Video_DirectShow\P2P_Video_DirectShow\DirectX.Capture\bin\Debug\DShowNET.dll
+C:\Users\NTK\Downloads\Compressed\P2P_Video_DirectShow\P2P_Video_DirectShow\DirectX.Capture\bin\Debug\DShowNET.pdb
+C:\Users\NTK\Downloads\Compressed\P2P_Video_DirectShow\P2P_Video_DirectShow\DirectX.Capture\obj\Debug\DirectX.Capture.csprojAssemblyReference.cache
+C:\Users\NTK\Downloads\Compressed\P2P_Video_DirectShow\P2P_Video_DirectShow\DirectX.Capture\obj\Debug\DirectX.Capture.csproj.CopyComplete
+C:\Users\NTK\Downloads\Compressed\P2P_Video_DirectShow\P2P_Video_DirectShow\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+C:\Users\NTK\Downloads\Compressed\P2P_Video_DirectShow\P2P_Video_DirectShow\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\P2P_CHAT_VIA_LAN_FLATUI\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\P2P_CHAT_VIA_LAN_FLATUI\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\P2P_CHAT_VIA_LAN_FLATUI\DirectX.Capture\bin\Debug\DShowNET.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\P2P_CHAT_VIA_LAN_FLATUI\DirectX.Capture\bin\Debug\DShowNET.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\P2P_CHAT_VIA_LAN_FLATUI\DirectX.Capture\obj\Debug\DirectX.Capture.csprojAssemblyReference.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\P2P_CHAT_VIA_LAN_FLATUI\DirectX.Capture\obj\Debug\DirectX.Capture.csproj.CopyComplete
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\P2P_CHAT_VIA_LAN_FLATUI\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\P2P_CHAT_VIA_LAN_FLATUI\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\DirectX.Capture\bin\Debug\DShowNET.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\DirectX.Capture\bin\Debug\DShowNET.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\DirectX.Capture\obj\Debug\DirectX.Capture.csprojAssemblyReference.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\DirectX.Capture\obj\Debug\DirectX.Capture.csproj.CopyComplete
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\DirectX.Capture\obj\Debug\DirectX.Capture.csproj.CoreCompileInputs.cache
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\DirectX.Capture\bin\Debug\DShowNET.dll
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\DirectX.Capture\bin\Debug\DShowNET.pdb
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\DirectX.Capture\obj\Debug\DirectX.Capture.csprojAssemblyReference.cache
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\DirectX.Capture\obj\Debug\DirectX.Capture.csproj.CopyComplete
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\DirectX.Capture\obj\Debug\DirectX.Capture.pdb

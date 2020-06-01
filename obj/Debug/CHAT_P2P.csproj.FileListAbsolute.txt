@@ -1,0 +1,35 @@
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\bin\Debug\CHAT_P2P.exe.config
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\bin\Debug\CHAT_P2P.exe
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\bin\Debug\CHAT_P2P.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\bin\Debug\DirectX.Capture.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\bin\Debug\DShowNET.dll
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\bin\Debug\DirectX.Capture.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\bin\Debug\DShowNET.pdb
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.csprojAssemblyReference.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.File_Transfer.frmReceiver.resources
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.File_Transfer.frmSender.resources
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.frmMain.resources
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.P2PVideoCall.resources
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.Properties.Resources.resources
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.csproj.GenerateResource.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.csproj.CoreCompileInputs.cache
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.csproj.CopyComplete
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.exe
+E:\UNI LEARNING\TAI LIEU KI 2 - 19.20\LAP TRINH MANG\CODE\p2p_chat_app_via_lan-develop\p2p_chat_app_via_lan-develop\obj\Debug\CHAT_P2P.pdb
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\bin\Debug\CHAT_P2P.exe.config
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\bin\Debug\CHAT_P2P.exe
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\bin\Debug\CHAT_P2P.pdb
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\bin\Debug\DirectX.Capture.dll
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\bin\Debug\DShowNET.dll
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\bin\Debug\DirectX.Capture.pdb
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\bin\Debug\DShowNET.pdb
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\obj\Debug\CHAT_P2P.csprojAssemblyReference.cache
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\obj\Debug\CHAT_P2P.File_Transfer.frmReceiver.resources
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\obj\Debug\CHAT_P2P.File_Transfer.frmSender.resources
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\obj\Debug\CHAT_P2P.frmMain.resources
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\obj\Debug\CHAT_P2P.P2PVideoCall.resources
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\obj\Debug\CHAT_P2P.Properties.Resources.resources
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\obj\Debug\CHAT_P2P.csproj.GenerateResource.cache
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\obj\Debug\CHAT_P2P.csproj.CopyComplete
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\obj\Debug\CHAT_P2P.exe
+G:\LEARN\laptrinhmang\P2P_CHAT_VIA_LAN-master (1)\P2P_CHAT_VIA_LAN-master\obj\Debug\CHAT_P2P.pdb
